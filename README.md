@@ -2,9 +2,9 @@
 
 ## Сontact with me:
 
-[<img alt="khotsevich | vk" src="./assets/logos/vk.svg" style="width: 50px;" />][vk]
-[<img alt="khotsevich | vk" src="./assets/logos/telegram.svg" style="width: 50px;" />][telegram]
-[<img alt="khotsevich | vk" src="./assets/logos/facebook.svg" style="width: 50px;" />][facebook]
+[<img alt="khotsevich | vk" src="./assets/logos/vk.svg" width="50px" />][vk]
+[<img alt="khotsevich | vk" src="./assets/logos/telegram.svg" width="50px" />][telegram]
+[<img alt="khotsevich | vk" src="./assets/logos/facebook.svg" width="50px" />][facebook]
 
 [vk]: (https://vk.com/khotsevich)
 [spotify]: (https://open.spotify.com/user/xrgijmkpddsact41v76h88uvd?si=JTFpei7gQSaefyprtpY_7g)
