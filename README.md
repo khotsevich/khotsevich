@@ -1,1 +1,1 @@
-[![Spotify](https://khotsevich.vercel.app/api/spotify)](https://open.spotify.com/user/xrgijmkpddsact41v76h88uvd)
+[![Spotify](https://novatorem-omega-three.vercel.app/api/spotify)](https://open.spotify.com/user/xrgijmkpddsact41v76h88uvd)
